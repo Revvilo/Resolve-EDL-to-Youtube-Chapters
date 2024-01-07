@@ -4,3 +4,6 @@
 - Abuses pythons array slicing so the slicing is hard coded and not dynamic
 
 Pulls the EDL file from next to the script. Only supports one EDL file at a time
+
+#### To export markers from Resolve:
+Right click the timeline in the media pool, go to Timelines > Export > Timeline markers to EDL...
